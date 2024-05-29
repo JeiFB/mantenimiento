@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1070135221623",
+    "project_id": "mantenimiento-75f12",
+    "storage_bucket": "mantenimiento-75f12.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1070135221623:android:b85fc872fd4cd5b2ed9572",
+        "android_client_info": {
+          "package_name": "com.example.flutter_gamer_mvvm"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDCvEHm9VN6r9o3CiwEtz8JCYwZSfF0hiw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
